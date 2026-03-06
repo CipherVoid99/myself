@@ -20,7 +20,7 @@ Welcome to my workspace. I build systems that prioritize zero-trust architecture
 ### 🔐 Personal Protocols
 I do not trust corporate communication channels. If you need to reach me regarding an open-source contribution, a bounty, or a private consultation, use secure channels only.
 
-*   **Primary Contact:** `ciphervoid99@proton.me`
+*   **Primary Contact:** `CipherVoid99@proton.me`
 *   **Key Verification:** I rotate my PGP keys annually. Do not trust old signatures.
 *   **Recovery:** I rely entirely on BIP39 mnemonic seeds for personal disaster recovery. If I lose my physical keys, my digital life is air-gapped forever. I prefer it that way.
 
